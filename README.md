@@ -7,3 +7,8 @@ Dataset used for Tweet details: <https://www.kaggle.com/datasets/omermetinn/twee
 
 
 [tw_all.csv](https://drive.google.com/file/d/146KADDisLSJ7jeq0jtSTPW23Htoew-hU/view?usp=sharing): This is just Tweet dataset from above, after processsing, transforming and getting sentiment for each tweets. You can use this directly or work with the above dataset and tweak it according to your needs.
+
+
+Here's web app in working : 
+
+![](https://github.com/DarkShadowKonoha/Twitter-and-Stock-Market-Sentiment-Analysis/blob/master/webpage_tweet.gif)
