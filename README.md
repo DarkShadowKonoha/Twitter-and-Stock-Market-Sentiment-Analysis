@@ -11,4 +11,4 @@ Dataset used for Tweet details: <https://www.kaggle.com/datasets/omermetinn/twee
 
 Here's web app in working : 
 
-![](https://github.com/DarkShadowKonoha/Twitter-and-Stock-Market-Sentiment-Analysis/blob/master/webpage_tweet.gif)
+![](https://github.com/DarkShadowKonoha/Twitter-and-Stock-Market-Sentiment-Analysis/blob/master/webapp_gif.gif)
