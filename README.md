@@ -12,3 +12,13 @@ Dataset used for Tweet details: <https://www.kaggle.com/datasets/omermetinn/twee
 Here's web app in working : 
 
 ![](https://github.com/DarkShadowKonoha/Twitter-and-Stock-Market-Sentiment-Analysis/blob/master/webapp_gif.gif)
+
+
+
+## For setting up this project in your system :
+
+1. Clone the Repo
+2. Download the Datasets in the same folder (if it is stored anywhere else you just have to change the file path while reading them)
+3. Setup a Virutal Environment
+4. Install the required Libraries/Packages using ```pip install -r requirements.txt```
+5. And lastly install nltk and download the Lexicon VADER in it for getting POSITIVE and NEGATIVE words.
