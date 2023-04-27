@@ -18,7 +18,7 @@ Here's web app in working :
 ## For setting up this project in your system :
 
 1. Clone the Repo
-2. Download the Datasets in the same folder (if it is stored anywhere else you just have to change the file path while reading them)
+2. Download the above datasets in the same folder (if it is stored anywhere else you just have to change the file path while reading them)
 3. Setup a Virutal Environment
 4. Install the required Libraries/Packages using ```pip install -r requirements.txt```
 5. And lastly install nltk and download the Lexicon VADER in it for getting POSITIVE and NEGATIVE words.
